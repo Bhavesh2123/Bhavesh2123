@@ -1,7 +1,7 @@
 ## Hi there I'm Bhavesh
 
  🔭 I’m a second year IT student at MSIT
- 🌱 I’m currently learning ML and working on my java project
+ 🌱 I’m currently learning ML and working on my ai/ml project
  🤔 I’m looking for help with Ai/Ml
  📫 How to reach me: bhaveshjangra889@gmail.com
  😄 Pronouns: He/him
