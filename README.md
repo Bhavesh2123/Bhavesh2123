@@ -1,8 +1,7 @@
 ## Hi there I'm Bhavesh
 
- 🔭 I’m a second year IT student at MSIT
- 🌱 I’m currently learning ML and working on my ML project
- 🤔 I’m looking for help with Ai/Ml
+ 🔭 I’m a 3rd year IT student at MSIT
+ 🌱 I’m currently learning Nueral Networks while implementing my ML learning through projects.
  📫 How to reach me: bhaveshjangra889@gmail.com
  😄 Pronouns: He/him
  ⚡ Fun fact: I have a lot of hobbies
