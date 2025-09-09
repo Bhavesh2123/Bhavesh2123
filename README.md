@@ -30,4 +30,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavesh2123&show_icons=true&locale=en&layout=compact" alt="bhavesh2123" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavesh2123&" alt="bhavesh2123" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=bhavesh2123&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+
