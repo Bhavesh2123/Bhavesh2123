@@ -1,7 +1,6 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dGQ3NXZjOGZqaWd4NHNndmNsdW5ya3kya2l0czN3djJxc3BlaWVtdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqmupuTVZYaQX5s094/giphy.gif"  />
 </div>
-###
 <h1 align="center">Hi 👋, I'm Bhavesh Jangra</h1>
 <h3 align="center">An AI Enthusiast currently studying Deep Learning</h3>
 
@@ -30,5 +29,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavesh2123&show_icons=true&locale=en&layout=compact" alt="bhavesh2123" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=bhavesh2123&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavesh2123&" alt="bhavesh2123" /></p>
+
 
