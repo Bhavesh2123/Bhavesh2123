@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **bhaveshjangra889@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XPxtJLaL2O7yCWhHv6BM7BKRBD4E0U92/view?usp=drivesdk](https://drive.google.com/file/d/1XPxtJLaL2O7yCWhHv6BM7BKRBD4E0U92/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1DQk5nWvDoJowqW0OTFmMTs-zQHxl5dwK/view?usp=drivesdk]
 
 - ⚡ Fun fact **I have a lot of Hobbies**
 
