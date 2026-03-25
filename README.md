@@ -2,9 +2,7 @@
   <img height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dGQ3NXZjOGZqaWd4NHNndmNsdW5ya3kya2l0czN3djJxc3BlaWVtdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqmupuTVZYaQX5s094/giphy.gif"  />
 </div>
 <h1 align="center">Hi 👋, I'm Bhavesh Jangra</h1>
-<h3 align="center">An AI Enthusiast currently studying Deep Learning</h3>
-
-- 🔭 I’m currently working on [Ecommerce Customer Segmentation ltv](https://github.com/Bhavesh2123/Ecommerce-Customer-Segmentation-ltv)
+<h3 align="center">Developing Deep Learning projects <3 </h3>
 
 - 🌱 I’m currently learning **Neural Networks and Deep Learning**
 
